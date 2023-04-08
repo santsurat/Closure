@@ -1,0 +1,2 @@
+# Closure
+ What is closure?
